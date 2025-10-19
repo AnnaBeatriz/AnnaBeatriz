@@ -72,6 +72,16 @@
 <br/>
 <br/>
 
+### 📂 Projetos
+
+#### 📊 [Power BI - Dashborad Vendas](https://github.com/AnnaBeatriz/PowerBI-Projetos)
+💼 Projeto de análise de dados desenvolvido no Power BI, focado em **Inteligência de Dados e Governança de Dados**.  
+🔹 Dashboards interativos com KPIs estratégicos  
+🔹 Visualizações por categoria e período  
+🔹 Ferramentas: Power BI e Excel
+
+---
+
 ### 📊 Estatísticas
 
 <p>
