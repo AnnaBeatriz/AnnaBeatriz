@@ -6,24 +6,6 @@
 🔹 Apaixonada por transformar dados em insights estratégicos <br>
 🔹 Ferramentas: Power BI, SQL, Python, Power Automate, Excel avançado</p>
 
-
-<p align="left">
-    <a href="https://github.com/AnnaBeatriz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AnnaBeatriz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/AnnaBeatriz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AnnaBeatriz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -68,6 +50,14 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" 
 />
+<img 
+    align="left" 
+    alt="Postgrensql" 
+    title="Postgrensql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" 
+/>
 
 <br/>
 <br/>
@@ -82,5 +72,14 @@
 🔹 Visualizações por categoria e período  
 🔹 Ferramentas: Power BI e Excel
 
----
+#### 🪪 [Projeto Prático ETL com Apache Hop](https://github.com/AnnaBeatriz/ETL_ApacheHop)
+💼 Este é um projeto prático completo de ETL (Extract, Transform, Load) utilizando Apache Hop e PostgreSQL. O projeto demonstra: <br>
+🔹 Extração de dados de arquivos CSV <br>
+🔹 Transformações e agregações de dados <br>
+🔹 Carga de dados refinados no PostgreSQL (Data Warehouse)<br>
+🔹 Leitura, transformação e recarga de dados do DW
 
+---
+### 📬 Contato
+- GitHub: [@AnnaBeatriz](https://github.com/AnnaBeatriz)  
+- LinkedIn: [Ana Beatriz Pelosi Pinto](https://www.linkedin.com/in/ana-beatriz-pelosi/)
